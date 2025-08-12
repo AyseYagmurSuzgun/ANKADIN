@@ -6,6 +6,7 @@ Python ve Kivy kullanılarak hazırlanmış, kullanıcı dostu bir arayüzle aci
 
 ---
 ![Giriş Ekranı](https://github.com/AyseYagmurSuzgun/ANKADIN/blob/main/menu.png?raw=true)
+![Bilgi Ekranı](https://github.com/AyseYagmurSuzgun/ANKADIN/blob/main/bilgi_girisi.png?raw=true)
 
 
 ## Özellikler
