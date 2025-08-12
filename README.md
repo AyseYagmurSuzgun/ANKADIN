@@ -5,6 +5,7 @@ ANKADIN, kadına yönelik tehdit durumlarında hızlı ve etkili yardım sağlam
 Python ve Kivy kullanılarak hazırlanmış, kullanıcı dostu bir arayüzle acil durumlarda hızlı iletişim ve konum paylaşımı sağlar.
 
 ---
+![Giriş Ekranı]()
 
 
 ## Özellikler
